@@ -10,7 +10,6 @@
       "Bash(git show:*)",
       "Bash(ls)",
       "Bash(ls:*)",
-      "Bash(find:*)",
       "Bash(grep:*)",
       "Bash(rg:*)",
       "Bash(cat:*)"
