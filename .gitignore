@@ -1,0 +1,29 @@
+# Dependências
+node_modules/
+**/node_modules/
+
+# Build
+dist/
+**/dist/
+build/
+
+# Ambiente
+.env
+.env.local
+.env.*.local
+!.env.example
+
+# Testes
+coverage/
+**/coverage/
+
+# Logs e SO
+*.log
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# TypeScript incremental build cache
+*.tsbuildinfo
